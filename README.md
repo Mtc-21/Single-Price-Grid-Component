@@ -7,7 +7,7 @@ Solution to the  [Single Price Grid Component](https://www.frontendmentor.io/cha
 Solution: [Github Page](https://mtc-21.github.io/Single-Price-Grid-Component/)
 
 # Description
-created with html, js, css, using flexbox and grid for the layout of the website 
+created with html, css, using flexbox and grid for the layout of the website 
 
 # Author
 - Codepen - [Mtc_21](https://codepen.io/Mtc_21/)
